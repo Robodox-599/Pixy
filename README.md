@@ -4,7 +4,7 @@
 
 CLICK IMAGE TO WATCH PIXY KICKSTARTER VIDEO!
 
-Repositry Organized by: @hungyapple
+Repositry Organized by: Team 599 - [ROBODOX](http://therobodox.org/)
 
 ###C++
 ---
