@@ -10,17 +10,16 @@ Repositry Organized by: @hungyapple
 ---
 Last Updated in 3/28/2016
 
-Basic code that moves servo motor based on the x-cordinate of the "block"
+- Basic code that moves servo motor based on the x-cordinate of the "block"
 
 ###Java
 ---
-The code will be uploaded very soon once the code is confirmed to be working perfectly.
+- The code will be uploaded very soon once the code is confirmed to be working perfectly.
 
 ###Arduino
 ---
-The code in arduino is avaliable at [Charmed labs' offical website](http://charmedlabs.com/default/pixy-cmucam5/)
-
-Regardless, there will still be the copy of the code in this repository, in case anyone wants access to it.
+- The code in arduino is avaliable at [Charmed labs' offical website](http://charmedlabs.com/default/pixy-cmucam5/)
+- Regardless, there will still be the copy of the code in this repository, in case anyone wants access to it.
 
 ###For More information:
 ---
