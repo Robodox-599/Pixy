@@ -17,6 +17,11 @@ Tried our best to comment things on the .cpp file to makes things easier for you
     - i2c = new I2C(I2C::Port::kOnboard, PIXY_ADDRESS)
     - i2c = new I2C(I2C::Port::kMXP, PIXY_ADDRESS)
 
+- Void print()
+  
+  - assigns value to variable: signature, width, height, x, y, and anlge
+  - prints those value out to console
+
 ---
 ##Class Robot
 
@@ -32,6 +37,7 @@ Tried our best to comment things on the .cpp file to makes things easier for you
 
   - **This Piece of code is extremely important!**
   - Make sure to understand this function in conjuction of GetStart() function :)
+  - Finds out how many identified objects by pixy
 
 - FollowBlock()
   
