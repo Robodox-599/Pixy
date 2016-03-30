@@ -24,6 +24,6 @@ Last Updated in 3/28/2016
 ###For More information:
 ---
 
-- [Charmed labs' offical website](http://charmedlabs.com/default/pixy-cmucam5/)
+- [Charmed labs' offical website](http://cmucam.org/projects/cmucam5/wiki/Latest_release)
 - Link to the Official [Charmed Labs Forum](http://cmucam.org/projects/cmucam5/wiki)
 - [Latest Release for Pixy Stuff!](http://cmucam.org/projects/cmucam5/wiki/Latest_release)
