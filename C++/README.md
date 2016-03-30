@@ -5,7 +5,6 @@
 Tried our best to comment things on the .cpp file to makes things easier for you to understand :)
 
 ##Block Struct 
----
 
 - Includes: 
   
@@ -23,7 +22,6 @@ Tried our best to comment things on the .cpp file to makes things easier for you
   - prints those value out to console
 
 ##Class Robot
----
 
 - GetStart(): 
   
