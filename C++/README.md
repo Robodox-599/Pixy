@@ -4,8 +4,8 @@
 
 Tried our best to comment things on the .cpp file to makes things easier for you to understand :)
 
----
 ##Block Struct 
+---
 
 - Includes: 
   
@@ -22,8 +22,8 @@ Tried our best to comment things on the .cpp file to makes things easier for you
   - assigns value to variable: signature, width, height, x, y, and anlge
   - prints those value out to console
 
----
 ##Class Robot
+---
 
 - GetStart(): 
   
