@@ -55,7 +55,7 @@ struct Block
       printf("sig: %d x: %d y: %d width: %d height: %d\n", signature, x, y, width, height); //prints out data to console instead of smartDashboard -> check on the side of the driver station, check +print and click view console
     //Serial.print(buf);
   }
-  uint16_t signature;
+  uint16_t signature; //Identification number for your object - you could set it in the pixymon
   uint16_t x; //0 - 320
   uint16_t y; //0 - 200
   uint16_t width;
