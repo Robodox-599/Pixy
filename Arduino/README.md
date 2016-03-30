@@ -6,7 +6,7 @@ from CMUcam website
 
 [Hooking up Pixy to Arduino](http://cmucam.org/projects/cmucam5/wiki/Hooking_up_Pixy_to_a_Microcontroller_(like_an_Arduino))
 
-**None of the Code was written by the ROODOX**
+**None of the Code was written by the ROBODOX**
 
 It is still recommended to go to thier [offical website](http://cmucam.org/projects/cmucam5/wiki/Latest_release) and downloading necessary files
 
