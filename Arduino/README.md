@@ -1,7 +1,7 @@
 #Official Arduino Library
 by CMUcam
 
-[Example Picture](http://i74.photobucket.com/albums/i241/cmucam/IMG_4521_zpsb5aa9a88.jpg)
+![Example Picture](http://i74.photobucket.com/albums/i241/cmucam/IMG_4521_zpsb5aa9a88.jpg)
 from CMUcam website
 
 [Hooking up Pixy to Arduino](http://cmucam.org/projects/cmucam5/wiki/Hooking_up_Pixy_to_a_Microcontroller_(like_an_Arduino))
