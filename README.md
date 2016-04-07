@@ -8,9 +8,10 @@ Repositry Organized by: Team 599 - [ROBODOX](http://therobodox.org/)
 
 ###C++
 ---
-Last Updated in 3/28/2016
+Last Updated in 4/7/2016
 
 - Basic code that moves servo motor based on the x-cordinate of the "block"
+- Pixy Library: It will soon be tested to confirm that it works every time. Yey! ヽ(゜∇゜)ノ
 
 ###Java
 ---
